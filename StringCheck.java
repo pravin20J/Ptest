@@ -1,5 +1,3 @@
-package com.practise;
-
 public class StringCheck {
 	
 	public static void main(String[] args) {

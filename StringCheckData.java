@@ -8,7 +8,7 @@ public class StringCheckData {
 		
 		//String s2= "Java";
 		
-		
+		System.out.println("###Checking For euuality###");
 		
 		if(s1.equals(s2))
 			System.out.println("Equals Returned True");
